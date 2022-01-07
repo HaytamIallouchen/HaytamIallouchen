@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HaytamIallouchen
 - 👀 I’m interested in WebProgramming.
-- 🌱 I’m currently learning PHP, SQL for webapplications.
+- 🌱 I’m currently learning Laravel for webapplications.
 - 📫 How to reach me iallhaytam@gmail.com
 
 <!---
