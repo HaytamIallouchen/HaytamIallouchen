@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @HaytamIallouchen and I'm 18 years old.
+- 👋 Hi, I’m @HaytamIallouchen and I'm 19 years old.
 - 👀 I’m interested in WebProgramming.
-- 🌱 I’m currently learning Laravel for webapplications.
+- 🌱 I’m currently developing myself with Laravel for webapplications.
 - 📫 How to reach me iallhaytam@gmail.com
 
 👨‍💻Currently I study a 3-years education Software-development at the Bit Academy. 📍located in Amsterdam, The Netherlands.
