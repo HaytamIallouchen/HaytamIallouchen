@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @HaytamIallouchen and I'm 20 years old.
+- 👋 Hi, I’m @HaytamIallouchen and I'm 21 years old.
 - 👀 I’m interested in WebProgramming.
 - 🌱 I’m currently developing myself with Angular for front-end webdevelopment.
 - 📫 How to reach me iallhaytam@gmail.com
 
-👨‍💻Currently I am studying a 3-year Software-developments education at the Bit Academy.
-📍in Amsterdam, The Netherlands.
+👨‍💻 Currently I am studying a 3 year Software-development education at the Bit Academy.
+
+🏥 My first internship at AVL (Antoni van Leeuwenhoek) hospital in Amsterdam-west.
+
+🏰 Currently doing my second internship at the Bit Academy in Amsterdam-west.
+
+📍 Amsterdam, The Netherlands.
 
 <!---
 HaytamIallouchen/HaytamIallouchen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
