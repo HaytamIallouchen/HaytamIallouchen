@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @HaytamIallouchen and I'm 21 years old.
-- 👀 I’m interested in WebProgramming.
+- 👋 Hi, I’m @HaytamIallouchen and I'm 22 years old.
+- 👀 I’m interested in Object Oriented Programming.
 - 🌱 I’m currently developing myself with Angular for front-end webdevelopment.
 - 📫 How to reach me iallhaytam@gmail.com
 
